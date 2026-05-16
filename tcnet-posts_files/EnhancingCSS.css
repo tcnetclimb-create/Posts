@@ -1,0 +1,320 @@
+/* Your style */
+/* Your style */
+.h3_type1 {
+width:60%;
+border-bottom:1px solid teal;
+border-left:5px solid teal;
+margin-bottom:15px;
+padding:1px 5px 3px;
+}
+
+.h3_type2 {
+font-size:100%;
+font-weight:700;  
+}
+
+.h3_type3 {
+font-size:100%;
+font-weight:700;
+background-image:url(https://takahashigawa-climb.net/wp-content/uploads/midasi_02.jpg);
+background-repeat:no-repeat;
+}
+
+.h3_type4 {
+font-size:100%;
+font-weight:700;
+background-image:url(https://takahashigawa-climb.net/wp-content/uploads/midasi_01.jpg);
+background-repeat:no-repeat;
+padding:3px 17px;  
+}
+
+.h2_type1 {
+font-size:100%;
+font-weight:700;
+}
+.h3_type5 {     
+border-bottom:solid 2px #F5DEB3;
+background-image:url(https://takahashigawa-climb.net/wp-content/uploads/h3.gif);
+background-repeat:no-repeat;
+background-position:left center;
+padding-left:20px;    
+padding-top:3px;                
+}
+
+.mainbox {
+background:#fffacd;
+text-align:justify;
+margin:0 8px 0 5px;
+padding:3px 10px;
+}
+
+.box2 {
+background:#F5DEB3;
+margin-left:10px;
+margin-right:10px;
+text-align:center;
+padding:15px 6px 1px;
+}
+
+.box3 {
+background:#F5DEB3;
+border:1px solid gray;
+font-size:100%;
+text-align:center;
+margin:5px 30px 10px;
+padding:5px 6px;
+}
+
+.box4 {
+background:#fffacd;
+margin:0;
+padding:3px 10px 3px 8px;
+}
+
+.aisatu {
+border:1px solid #AB9B7D;
+padding:15px;
+}
+
+.kazari {
+border-top:3px solid #FEF3DD;
+border-bottom:7px solid #FEF3DD;
+border-right:7px solid #FEF3DD;
+border-left:3px solid #FEF3DD;
+margin:0 9.5px 15px 0;
+padding:7px;
+}
+
+.kazari h3 {
+font-size:100%;
+font-weight:700;  
+}
+
+.qa_danraku {
+width:90%;
+border-left:1px solid #F5DEB3;
+margin:15px 0 30px 1em;
+padding-left:8px;
+line-height:150%;
+}
+
+.list_none {
+list-style-type:none;
+}
+
+.mawarikomi2 {
+float:right;
+}
+
+.renraku {
+margin-top:8px;
+margin-bottom:5px;
+padding-left:10px;
+}
+
+.keijiban_link {
+background:#fffffe;
+border:1px solid #000;
+margin:15px 0 10px;
+padding:5px 2px;
+}
+
+.keijiban_link img {
+margin:5px 7px;
+}
+
+.mawarikomi {
+margin-right:10px;
+padding:0 15px 5px 0;
+float:left;
+}
+
+.iro1 {
+color:red;
+}
+
+.size1 {
+font-weight:700;
+}
+
+.size4 {
+font-size:10pt;
+}
+
+.size6 {
+font-size:100%;
+}
+
+.size7 {
+font-size:120%;
+font-weight:700;
+}
+
+.center {
+margin-top:5pt;
+margin-right:5pt;
+margin-bottom:5pt;
+font-size:84%;
+text-align:center;
+}
+
+.indent {
+text-indent:1em;
+}
+
+.migi {
+text-align:right;
+margin:8px 15px 10px 0;
+}
+
+.list_none {
+list-style-type:none;
+}
+
+.margin1 {
+margin-top:20px;
+margin-bottom:10px;
+}
+
+.margin2 {
+margin-top:5px;
+}
+
+.margin3 {
+margin-bottom:5px;
+}
+
+.margin6 {
+margin-top:5px;
+margin-bottom:5px;
+}
+
+.clear {
+clear:both;
+}
+
+#page031 ul {
+margin-top:0;
+}
+
+#page031 p {
+margin:5px;
+}
+
+#aria {
+background-color:#FEF3DD;
+background-image:url(https://takahashigawa-climb.net/wp-content/uploads/gongen_bag.jpg);
+background-repeat:no-repeat;
+height:200px;
+margin:0 0 0 -10px;
+padding:3px 0 0 420px;
+color:#fff;
+font-size:84%;
+}
+
+#hayama {
+background-color:#FEF3DD;
+background-image:url(https://takahashigawa-climb.net/wp-content/uploads/hayama514a.jpg);
+background-repeat:no-repeat;
+height:200px;
+margin:0 0 0 -10px;
+padding:7px 10px;
+color:#fff;
+font-size:84%;
+}
+
+#unkai {
+background-color:#FEF3DD;  
+background-image:url(https://takahashigawa-climb.net/wp-content/uploads/unkai.jpg);
+background-repeat:no-repeat;
+height:200px;
+margin:0 0 20px -10px;
+padding:3px;
+color:#fff;
+font-size:84%;
+}
+
+#tenryuzenkei {
+background-image:url(e_ohirome2.jpg);
+background-repeat:no-repeat;
+height:200px;
+margin:0 0 0 -10px;
+padding:3px;
+color:#fff;
+font-size:84%;
+}
+
+#vitaminr_nhara {
+background-color:#FEF3DD;  
+background-image:url(https://takahashigawa-climb.net/wp-content/uploads/vitaminr2.jpg);
+background-repeat:no-repeat;
+height:200px;
+margin:0 0 0 -10px;
+padding:15px;
+color:#fff;
+font-size:84%;
+}
+
+#gainenzu {
+background-color:#FEF3DD;
+background-image:url(https://takahashigawa-climb.net/wp-content/uploads/img0078782.jpg);
+background-repeat:no-repeat;
+height:180px;
+margin:0 0 0 -10px;
+padding:3px;
+color:#fff;
+font-size:84%;
+}
+
+#meoto {
+background-color:#FEF3DD;  
+background-image:url(https://takahashigawa-climb.net/wp-content/uploads/img007878.jpg);
+background-repeat:no-repeat;
+height:180px;
+color:#fff;
+text-align:left;
+margin:5px 0;
+padding:3px;  
+}
+
+#syokai p {
+margin-top:6px;
+margin-bottom:6px;
+}
+
+#tenryuzenkei {
+background-image:url(e_ohirome2.jpg);
+background-repeat:no-repeat;
+height:200px;
+margin:0 0 0 -10px;
+padding:3px;
+color:#fff;
+font-size:84%;
+}
+
+#topozu_a {
+  width: 100%;
+  height: 210px;
+  background-image: url("https://takahashigawa-climb.net/wp-content/uploads/kantantizu.jpg");
+  background-repeat: no-repeat;
+  padding: 0px;
+  text-align: left;
+}
+
+#jarouiwa_a {
+  width: 100%;
+  height: 185px;
+  background-image: url("https://takahashigawa-climb.net/wp-content/uploads/jarouiwa.jpg");
+  background-repeat: no-repeat;
+  padding: 0px;
+  text-align: left;
+}
+
+#jarouiwa_b {
+  width: 100%;
+  height: 360px;
+  background-image: url("https://takahashigawa-climb.net/wp-content/uploads/jarouiwatopozu4.jpg");
+  background-repeat: no-repeat;
+  padding: 0px;
+  text-align: left;
+}
